@@ -1,6 +1,6 @@
 Zelda Dodger Mini Game
 
-By: Toby Thomas
+By: Toby Thomas, April 2015
 
 This is mini game I created, based on my favourite video game series, The Legend of Zelda, to explore the possibilities of object oriented programming and GUIs with Java.
 
