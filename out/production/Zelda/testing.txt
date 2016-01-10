@@ -1,0 +1,7 @@
+Zelda Dodger is a game that features Link fighting multiple Octorok enemies, with his sword, on a playing field. Therefore, there are many ways for the player to interact with the game, and many possible errors that can occur.
+
+First, the player has the ability to control Link, allowing him to move and attack. This is done using the arrow keys and space bar. These controls are managed within the Game and Link classes of the program, and have been tested thoroughly. In my experience, although the animations may delay, Link’s movement is fluid and smooth.
+
+Second, Zelda Dodger features a menu system in which the player can navigate, to enter battle, exit battle, learn how to play, see high scores and read credits. This menu system is controlled by the arrow keys, p key and enter key, which have also been tested thoroughly. Similar to Link’s motion, the navigation of the menus in Zelda Dodger are scarce of errors. In fact, I have had no problem moving through the menu system.
+
+Finally, Zelda Dodger interacts with the player through a user IO. When defeated in battle, the player is brought back to the main menu, where an InputDialog pops up and asks for their name in order to save their score. If the player selects cancel or exits the InputDialog, no high score is saved. If the player selects okay without inputting a name, no high score is saved. Lastly, if the player inputs a name

@@ -1,0 +1,4 @@
+Zelda, 50
+Link, 40
+Sheik, 30
+Lisa, 20
